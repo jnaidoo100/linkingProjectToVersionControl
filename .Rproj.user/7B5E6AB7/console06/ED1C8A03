@@ -1,0 +1,23 @@
+]0;~/New Project/linkingProjectToVersionControl[?1034hJosephs-MacBook-Pro-4:linkingProjectToVersionControl josephnaidoo$  cd
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd /deskto
+bash: cd: /deskto: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd / [Kdesktop
+bash: cd: /desktop: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ whereis cd
+/usr/bin/cd
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd /New Project
+bash: cd: /New: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd[K[KCD
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ CD New Project
+/usr/bin/CD: line 4: cd: New: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ whereis linkingProjectToVers ionControl.Rproj
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd -[K~/New Project
+bash: cd: /Users/josephnaidoo/New: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd ~/New Pro[K[K[K[K[K[K[KDesktop
+]0;~/DesktopJosephs-MacBook-Pro-4:Desktop josephnaidoo$ cd
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd ~/New Project
+bash: cd: /Users/josephnaidoo/New: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ cd ~?desktop/New Proe[Kject
+bash: cd: ~?desktop/New: No such file or directory
+]0;~Josephs-MacBook-Pro-4:~ josephnaidoo$ 
